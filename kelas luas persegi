@@ -4,7 +4,7 @@ package KELAS;
 
 /**
  *
- * @author ASPIRE V5-471
+ * @author galih
  */
 public class luasPersegi {
     public int persegi(int sisi){
