@@ -3,6 +3,8 @@
 package KELAS;
 
 /**
+ *
+ * @author galih
  */
 public class luasSegitiga {
     double luas;
